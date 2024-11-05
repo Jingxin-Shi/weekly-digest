@@ -8,8 +8,8 @@ The app provides features to customize your application. To configure your appli
    publishDay: sun
    canPublishIssues: true
    canPublishPullRequests: true
-   canPublishContributors: true
-   canPublishStargazers: true
+   #canPublishContributors: true
+   #canPublishStargazers: true
    canPublishCommits: true
    ```
 3. Save the file and you are ready to go! Weekly Digest will read the configuration from your repository and will work accordingly.
